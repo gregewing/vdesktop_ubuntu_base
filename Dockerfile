@@ -34,9 +34,7 @@ RUN echo Starting.\
                           mate-tweak \
                           mozo \
                           novnc \
- && apt-get -q -y autoremove \
  && apt-get -q -y remove --purge gnome-screensaver \
- && apt-get -q -y autoremove \
  && apt-get -q -y --no-install-recommends full-upgrade \
  && apt-get -q -y autoremove \
  && apt-get -q -y clean \
