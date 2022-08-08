@@ -1,5 +1,4 @@
 # Base Image for Ubuntu Virtual Desktop images.  
-# vdestop_ubuntu_base
 
 This is the base image that I use for building vdesktop_UBUNTU virtual desktop docker contaienrs from.  
 
