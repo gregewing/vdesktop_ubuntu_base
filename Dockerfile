@@ -30,7 +30,7 @@ RUN echo Starting.\
                           ubuntu-mate-wallpapers \
                           ubuntu-mate-icon-themes \
 			  mate-applet-brisk-menu \
-#                          mate-panel \
+                          mate-panel \
                           plank \
                           mate-tweak \
                           mozo \
